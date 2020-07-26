@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+
+html {
+    font-size: 10px;
+    font-family: 'Kanit', sans-serif;
+    background-color: #2C3E50;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ABB2B9;
+    padding: 0px 20px 20px 20px;
+    border: 5px solid #F4F6F7;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #E74C3C;
+    font-family: 'Kanit', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 3px 3px 1px white;
+}
+
+p, li {
+    font-family: 'Kanit', sans-serif;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 3px double white;
+    bord
+}
